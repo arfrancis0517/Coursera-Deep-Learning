@@ -105,7 +105,7 @@ This repository contains my solutions for labs and programming assignments on Co
 
 </details>
 
-### 4. [Generative-deep learning-with-tensorflow](https://github.com/arfrancis0517/Coursera-Deep-Learning/tree/master/Generative-deep%20learning-with-tensorflow)
+### 4. [Generative Deep Learning with Tensorflow](https://github.com/arfrancis0517/Coursera-Deep-Learning/tree/master/Generative-deep%20learning-with-tensorflow)
 
 ---
 ### DeepLearning.AI TensorFlow Developer (Specialization)
